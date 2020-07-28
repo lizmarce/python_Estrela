@@ -1,0 +1,9 @@
+idade = 38
+print("Tiago tem %d anos" %idade)
+#% -> indica a composição da string anterior com o conteúdo da variável idade)
+# %d -> marcador de posição -> inteira
+
+idade = int(input("Digite sua idade: \n"))
+print("Tiago tem %d anos" %idade)
+
+#\n pular linha
