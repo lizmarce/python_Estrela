@@ -1,0 +1,6 @@
+#Método f-string
+nome="Tiago"  
+idade=38    
+grana=97.77     
+
+print(f"{nome} tem {idade} anos e apenas R${grana:5.2f} na conta." )
