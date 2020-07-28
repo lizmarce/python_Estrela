@@ -1,7 +1,11 @@
 # python_Estrela
 Aulas de Python do professor Tiago Estrela
 
-Para baixar a última versão do python: https://www.python.org/downloads/
+Instalar o pacote Anaconda
+
+PYTHON 3.8
+
+https://www.anaconda.com/products/individual
 
 Livro utilizado para referência: https://python.nilo.pro.br/index.html
 
