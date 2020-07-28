@@ -1,0 +1,6 @@
+#fatiamento
+s="ABCDEFGHIJ"
+s[0:3]
+s[3:9]
+s[5:]
+s[:2]
