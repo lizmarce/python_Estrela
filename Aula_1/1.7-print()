@@ -1,0 +1,12 @@
+nome1="Tiago"  #%s
+nome2="Nome qualquer" #%s
+idade=38    #%d
+grana=97.77     #%f
+
+print("%s e %s tem %d anos e apenas R$%5.2f na conta." %(nome1, nome2, idade, grana))
+
+nome="Tiago"  #%s
+idade=38    #%d
+grana=97.77     #%f
+
+print("%s tem %d anos e apenas R$%5.2f na conta." %(nome, idade, grana))
