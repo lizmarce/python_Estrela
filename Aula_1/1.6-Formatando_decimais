@@ -1,0 +1,6 @@
+#formatando decimais
+# %f -> marcador de posição -> float -> decimal
+# 5 -> tamanho total de caracteres
+#2 -> quantidade de casas decimais
+a=1/32
+print("%5.2f"%a)
