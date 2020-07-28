@@ -1,0 +1,6 @@
+#Método format
+nome="Tiago"  
+idade=38    
+grana=97.77     
+
+print("{} tem {} anos e apenas R$ {:5.2f} na conta".format(nome,idade,grana))
