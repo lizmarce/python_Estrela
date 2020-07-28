@@ -1,5 +1,5 @@
 #fatiamento
-#fatiamento
+
 No Python Shell:
 s="ABCDEFGHIJ"
 s[0:3]
